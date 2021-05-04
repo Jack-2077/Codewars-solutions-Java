@@ -1,6 +1,7 @@
 # Codewars Solutions (Shell)
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
+| 7 | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | [Isograms.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/7-kyu/Isograms.java) |
 | 8 | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | [Multiply.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/8-kyu/Multiply.java) |
 
 ## Kata Ranking (kyu)
