@@ -1,9 +1,11 @@
 # Codewars Solutions (Shell)
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
+| 6 | [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) | [DigitalRoot.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/DigitalRoot.java) |
 | 7 | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | [Isograms.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/7-kyu/Isograms.java) |
 | 8 | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | [Multiply.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/8-kyu/Multiply.java) |
 
+https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/DigitalRoot.java
 ## Kata Ranking (kyu)
 *source: [Codewars Wiki Honor & Ranks](https://github.com/Codewars/codewars.com/wiki/Honor-&-Ranks) and [Codewars Wiki Kata Ranking](https://github.com/Codewars/codewars.com/wiki/Kata-Ranking)*
 
