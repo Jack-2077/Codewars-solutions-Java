@@ -1,6 +1,7 @@
-# Codewars Solutions (Shell)
+# Codewars Solutions (Java)
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
+| 6 | [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) | [PersistentBugger.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/PersistentBugger.java) |
 | 6 | [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) | [DigitalRoot.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/DigitalRoot.java) |
 | 6 | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [CreatePhoneNumber.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/CreatePhoneNumber.java) |
 | 7 | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | [Isograms.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/7-kyu/Isograms.java) |
