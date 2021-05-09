@@ -2,7 +2,8 @@
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
 | 6 | [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) | [PersistentBugger.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/PersistentBugger.java) |
-| 6 | [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) | [PangramChecker.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/PangramChecker.java) | 
+| 6 | [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | [StringSplit.java]( https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/StringSplit.java) |
+| 6 | [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) | [PangramChecker.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/PangramChecker.java) |
 | 6 | [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) | [BraceChecker.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/BraceChecker.java) | 
 | 6 | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | [WhoLikesIt.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/WhoLikesIt.java) |
 | 6 | [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040) | [Printer.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/7-kyu/Printer.java) |
