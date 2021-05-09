@@ -7,10 +7,10 @@
 | 6 | [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) | [PangramChecker.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/PangramChecker.java) |
 | 6 | [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) | [BraceChecker.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/BraceChecker.java) | 
 | 6 | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | [WhoLikesIt.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/WhoLikesIt.java) |
-| 6 | [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040) | [Printer.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/7-kyu/Printer.java) |
 | 6 | [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) | [DigitalRoot.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/DigitalRoot.java) |
 | 6 | [Is a Number Prime](https://www.codewars.com/kata/5262119038c0985a5b00029f) | [IsPrime.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/IsPrime.java) |
 | 6 | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [CreatePhoneNumber.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/CreatePhoneNumber.java) |
+| 7 | [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040) | [Printer.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/7-kyu/Printer.java) |
 | 7 | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | [Isograms.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/7-kyu/Isograms.java) |
 | 8 | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | [Multiply.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/8-kyu/Multiply.java) |
 
