@@ -5,6 +5,7 @@
 | 6 | [Vasya - Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8) | [Line.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/Line.java) |
 | 6 | [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | [StringSplit.java]( https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/StringSplit.java) | 
 | 6 | [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) | [PangramChecker.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/PangramChecker.java) |
+| 6 | [Tortoise Racing](https://www.codewars.com/kata/55e2adece53b4cdcb900006c) | [Tortoise.java]( https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/Tortoise.java) |
 | 6 | [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) | [BraceChecker.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/BraceChecker.java) | 
 | 6 | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | [WhoLikesIt.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/WhoLikesIt.java) |
 | 6 | [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) | [DigitalRoot.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/DigitalRoot.java) |
