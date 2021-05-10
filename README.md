@@ -1,7 +1,8 @@
 # Codewars Solutions (Java)
 | kyu | Codewars Kata | My Solutions |
-| --- | --- | --- |
+| --- | --- | --- | 
 | 4 | [Observed Pin](https://www.codewars.com/kata/5263c6999e0f40dee200059d) | [ObservedPin.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/4-kyu/ObservedPin.java) | 
+| 4 | [Decode the Morse code, advanced](https://www.codewars.com/kata/54b72c16cd7f5154e9000457) | [MorseCodeDecoder.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/4-kyu/MorseCodeDecoder.java) | 
 | 5 | [Pagination Helper](https://www.codewars.com/kata/515bb423de843ea99400000a) | [PaginationHelper.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/5-kyu/PaginationHelper.java) | 
 | 5 | [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e) | [PrimeDecomp.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/5-kyu/PrimeDecomp.java) | 
 | 6 | [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e) | [MorseCodeDecoder.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/MorseCodeDecoder.java) |
