@@ -1,6 +1,7 @@
 # Codewars Solutions (Java)
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
+| 5 | [Pagination Helper](https://www.codewars.com/kata/515bb423de843ea99400000a) | [PaginationHelper.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/5-kyu/PaginationHelper.java) | 
 | 5 | [Primes in numbers](https://www.codewars.com/kata/54d512e62a5e54c96200019e) | [PrimeDecomp.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/5-kyu/PrimeDecomp.java) | 
 | 6 | [Vasya - Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8) | [Line.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/Line.java) |
 | 6 | [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | [StringSplit.java]( https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/6-kyu/StringSplit.java) | 
