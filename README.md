@@ -1,6 +1,6 @@
 # Codewars Solutions (Java)
 | kyu | Codewars Kata | My Solutions |
-| --- | --- | --- | (https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8
+| --- | --- | --- | 
 | 4 | [Observed Pin](https://www.codewars.com/kata/5263c6999e0f40dee200059d) | [ObservedPin.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/4-kyu/ObservedPin.java) | 
 | 4 | [Decode the Morse code, advanced](https://www.codewars.com/kata/54b72c16cd7f5154e9000457) | [MorseCodeDecoder.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/4-kyu/MorseCodeDecoder.java) | 
 | 5 | [Pagination Helper](https://www.codewars.com/kata/515bb423de843ea99400000a) | [PaginationHelper.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/5-kyu/PaginationHelper.java) | 
@@ -18,6 +18,7 @@
 | 7 | [Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040) | [Printer.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/7-kyu/Printer.java) |
 | 7 | [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1) | [Isograms.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/7-kyu/Isograms.java) |
 | 8 | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | [Multiply.java](https://github.com/Jack-2077/Codewars-solutions-Java/blob/main/8-kyu/Multiply.java) |
+(https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8
 
 ## Kata Ranking (kyu)
 *source: [Codewars Wiki Honor & Ranks](https://github.com/Codewars/codewars.com/wiki/Honor-&-Ranks) and [Codewars Wiki Kata Ranking](https://github.com/Codewars/codewars.com/wiki/Kata-Ranking)*
